@@ -1,4 +1,4 @@
-## Bonjour, je m'appelle Barnabé Sellier 👋
+## Bonjour, je suis Barnabé Sellier 👋
 
 Bienvenue sur mon profil Github ! Vous pouvez retrouver ici tous les projets sur lesquels j'ai travaillé ou je travaille actuellement.
 
@@ -46,7 +46,7 @@ Je suis depuis peu bénévole pour [Data For Good](https://github.com/dataforgoo
 ## Contact
 
 - 🔗 [Mon LinkedIn](https://www.linkedin.com/in/barnab%C3%A9-sellier-a39b2912b/)
-- 📧 [barnabe.sellier@gmail.com](mailto:barnabe.sellier@gmail.com)
+- 📧 [b.sellier27@hotmail.fr](mailto:b.sellier27@hotmail.fr)
 
 <!--
 [![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/bsellier/bsellier/blob/main/README-EN.md)
