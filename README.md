@@ -1,6 +1,6 @@
 ## Bonjour, je m'appelle Barnabé Sellier 👋
 
-Bienvenue sur mon profil Github ! Vous pouvez retrouver ici tous les projets sur lesquelles je travaille et j'ai travaillé.
+Bienvenue sur mon profil Github ! Vous pouvez retrouver ici tous les projets sur lesquels j'ai travaillé ou sur lesquels je travaille actuellement.
 
 ## À propose de moi
 👩‍💻 Passioné par le Big Data et l'Intelligence Artificielle
