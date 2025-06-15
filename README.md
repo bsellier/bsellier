@@ -1,4 +1,26 @@
-## Hi there 👋
+## Bonjour, je m'appelle Barnabé Sellier 👋
+
+Bienvenue sur mon profil Github ! Vous pouvez retrouver ici tous les projets sur lesquelles je travaille et j'ai travaillé.
+
+## À propose de moi
+👩‍💻 Passioné par le Big Data et l'Intelligence Artificielle
+🎓 Diplomé promo 2024 de l'[Université de Technologie de Compiègne (UTC)](https://utc.fr) de la filière Intelligence Artificielle et Science des Données 
+
+
+## Projets personnels
+
+Je suis depuis peu bénévole pour [Data For Good](https://github.com/dataforgoodfr), notamment pour le projet :
+- 🏛️ [Simulateur de conseil municipal](https://github.com/bsellier/simulateur_conseil_municipal)
+
+## Expériences professionnelles
+
+
+## Projets académique
+
+- 🧋 [Classification de boissons Starbuck par Machine Learning](https://github.com/bsellier/SY09)
+- 📊 [Analyse de données de supports collaboratifs](https://github.com/bsellier/TX-7007-data-analysis-collaborative-support)
+
+
 
 <!--
 **bsellier/bsellier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
