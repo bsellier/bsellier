@@ -18,6 +18,17 @@ Je suis depuis peu bénévole pour [Data For Good](https://github.com/dataforgoo
 - 🏛️ [Simulateur de conseil municipal](https://github.com/bsellier/simulateur_conseil_municipal)
 
 
+#### ML & AI Projects
+
+- 🕵️‍♂️ [Human Value detection with Bert](https://github.com/bsellier/nlp-human-value-detection)
+- 💬 [Emotion Recognition an Flip Reasoning in multi-party dialogs](https://github.com/bsellier/nlp-erc-efr)
+- 🧋 [Classification de boissons Starbucks par Machine Learning](https://github.com/bsellier/SY09)
+
+#### Data analysis
+
+- 📊 [Analyse de données de supports collaboratifs](https://github.com/bsellier/TX-7007-data-analysis-collaborative-support)
+
+
 ## Expériences professionnelles
 
 <br>
@@ -36,11 +47,6 @@ Je suis depuis peu bénévole pour [Data For Good](https://github.com/dataforgoo
 > 🏗️ Mise en place du modèle sur le pipeline CI/CD Gitlab avec Docker
 
 <br>
-
-## Projets académiques
-
-- 🧋 [Classification de boissons Starbucks par Machine Learning](https://github.com/bsellier/SY09)
-- 📊 [Analyse de données de supports collaboratifs](https://github.com/bsellier/TX-7007-data-analysis-collaborative-support)
 
 
 ## Contact
