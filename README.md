@@ -34,17 +34,19 @@ Je suis depuis peu bénévole pour [Data For Good](https://github.com/dataforgoo
 <br>
 
 🚀 **Ingénieur Data Scientist en IA Générative**
-> Développement de chatbot & callbot en Python sur AWS (Lex, Lambda, Bedrock, Connect)
-> Intégration de modèles LLM & NLP avec RAG (Claude 3 Haiku)
-> ⏱ Temps de réponse optimisé : 3s (chatbot), 7s (callbot)
+
+> Développement de chatbot & callbot en Python sur AWS (Lex, Lambda, Bedrock, Connect) <br>
+> Intégration de modèles LLM & NLP avec RAG (Claude 3 Haiku) <br>
+> ⏱ Temps de réponse optimisé : 3s (chatbot), 7s (callbot) <br>
 
 <br>
 
 🧠 **Ingénieur Data Scientist**
-> 🗃️ Création de datasets d'entraînement et de validation à partir d'API publiques
-> 🔍 Comparaison de différents modèles : KNN, LSTM, Bert
-> 🤖 Implémentation d'un algorithme de Deep Learning (LSTM) en Python avec Pytorch avec 96% de justesse
-> 🏗️ Mise en place du modèle sur le pipeline CI/CD Gitlab avec Docker
+
+> 🗃️ Création de datasets d'entraînement et de validation à partir d'API publiques <br>
+> 🔍 Comparaison de différents modèles : KNN, LSTM, Bert <br>
+> 🤖 Implémentation d'un algorithme de Deep Learning (LSTM) en Python avec Pytorch avec 96% de justesse <br>
+> 🏗️ Mise en place du modèle sur le pipeline CI/CD Gitlab avec Docker <br>
 
 <br>
 
